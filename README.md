@@ -1,2 +1,2 @@
-# docker-vim
-develop environment for vim as IDE
+# docker-vim  
+Docker as an Intergrated Development Environment using for vim
