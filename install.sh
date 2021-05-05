@@ -40,8 +40,8 @@ git clone git://github.com/nathanaelkane/vim-indent-guides.git ~/.vim/bundle
 git clone git://github.com/preservim/nerdtree.git ~/.vim/bundle
 git clone git://github.com/ycm-core/YouCompleteMe.git ~/.vim/bundle
 
-# 安装vim插件
+
 vim -c PluginInstall -c q -c q
-# 安装插件运行需要依赖的一些组件
+
 cd /root/.vim/bundle/YouCompleteMe/ && python install.py --clang-complete
 
